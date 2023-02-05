@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  height: 100%;
+  width: 100%;
+  font-size: 60px;
+  font-weight: 900;
+  font-style: system-ui;
+  background-color: rgb(248, 237, 223);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .App-logo {
